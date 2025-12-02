@@ -3,3 +3,4 @@
 * Learn Spark
 * Learn Scala
 * Learn GCP
+* Become Data Engineer
